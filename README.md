@@ -167,3 +167,5 @@ a thesaurus-derived reference that is itself an approximation of "true" topics. 
 * Deerwester, S. et al. (1990). Indexing by latent semantic analysis. JASIS, 41(6).
 * Roder, M., Both, A., Hinneburg, A. (2015). Exploring the space of topic coherence measures. WSDM.
 * Pedregosa, F. et al. (2011). Scikit-learn: Machine learning in Python. JMLR, 12.
+
+Created by Uchadiya Karan - 12302130601073 and Priyanshi Rana - 12302130601055
