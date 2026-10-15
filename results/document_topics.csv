@@ -1,0 +1,501 @@
+doc_id,topic,title
+2,0,Waiting for the wave to crest -LSB- wavelength services -RSB-
+3,0,"NuVox shows staying power with new cash , new market"
+4,2,Industry insiders loading up on cheap company stock
+20,5,Adaptive state feedback control for a class of linear systems with unknown bounds of uncertainties
+21,5,Discrete output feedback sliding mode control of second order systems - a moving switching line approach
+22,0,Analyzing the benefits of 300 mm conveyor-based AMHS
+23,6,Absorption of long waves by nonresonant parametric microstructures
+24,6,Fuzzy modeling based on generalized conjunction operations
+25,1,Identification of evolving fuzzy rule-based models
+26,6,Learning weights for the quasi-weighted means
+27,1,A formal model of computing with words
+28,6,Uncertainty bounds and their use in the design of interval type-2 fuzzy logic systems
+29,1,Fuzzy polynomial neural networks : hybrid architectures of fuzzy modeling
+30,1,Improvements and critique on Sugeno 's and Yasukawa 's qualitative modeling
+31,5,Adaptive neural/fuzzy control for interpolated nonlinear systems
+32,1,Analysis and efficient implementation of a linguistic fuzzy c-means
+33,5,Fuzzy control of multivariable process by modified error decoupling
+34,5,Design of PID-type controllers using multiobjective genetic algorithms
+35,1,Fusion of qualitative bond graph and genetic algorithms : A fault diagnosis application
+36,5,Model predictive control helps to regulate slow processes-robust barrel temperature control
+37,5,Design PID controllers for desired time-domain or frequency-domain response
+38,0,"A PID standard : What , why , how ?"
+39,5,Supervisory control design based on hybrid systems and fuzzy events detection .
+40,5,New tuning method for PID controller
+41,5,Controller performance analysis with LQG benchmark obtained under closed loop conditions
+193,7,Twenty years of the literature on acquiring out-of-print materials
+194,7,Books on demand : just-in-time acquisitions
+195,7,The acquisition of out-of-print music
+196,0,On the emergence of rules in neural networks
+197,1,Mixture of experts classification using a hierarchical mixture model
+198,1,Computational capacity of an odorant discriminator : the linear separability of curves
+199,1,On optimality in auditory information processing
+200,1,Preintegration lateral inhibition enhances unsupervised learning
+201,4,Correction to construction of panoramic image mosaics with global and local alignment
+202,4,Estimation of error in curvature computation on multi-scale free-form surfaces
+203,4,Plenoptic image editing
+204,4,Self-calibration from image derivatives
+205,4,Geotensity : combining motion and lighting for 3D surface reconstruction
+206,2,Information architecture : looking ahead
+207,3,Information architecture for bilingual Web sites
+208,3,Designing a new urban Internet
+209,2,Information interaction : providing a framework for information architecture
+210,2,When a better interface and easy navigation are n't enough : examining the information architecture in a law enforcement agency
+211,2,Pervasive computing goes to work : interfacing to the enterprise
+212,2,Knowledge management-capturing the skills of key performers in the power industry
+213,6,An application of fuzzy linear regression to the information technology in Turkey
+214,2,Evolution of the high-end computing market in the USA
+215,2,A conceptual framework for evaluation of information technology investments
+216,0,Extinction cross sections of realistic raindrops : data-bank established using T-matrix method and nonlinear fitting technique
+217,5,Vendor qualifications for IT staff and networking
+218,2,ISCSI poised to lower SAN costs
+219,2,Firewall card shields data
+220,2,How to avoid merger pitfalls
+223,0,Broadcasts keep staff in picture -LSB- intranets -RSB-
+224,2,Java portability put to the test
+225,2,The eyes have it -LSB- hotel security -RSB-
+226,2,Online masquerade : whose e-mail is it ?
+227,1,Relativistic constraints on the distinguishability of orthogonal quantum states
+228,0,Rapid microwell polymerase chain reaction with subsequent ultrathin-layer gel electrophoresis of DNA
+229,0,Simple minds -LSB- health care IT -RSB-
+230,7,2002 in-house fulfillment systems report -LSB- publishing -RSB-
+231,7,Writing the fulfillment RFP -LSB- publishing -RSB-
+232,7,"Library services today and tomorrow : lessons from iLumina , a digital library for creating and sharing teaching resources"
+233,7,The Canadian National Site Licensing Project
+234,7,The UK 's National Electronic Site Licensing Initiative -LRB- NESLI -RRB-
+235,7,The role of CAUL -LRB- Council of Australian Libraries -RRB- in consortial purchasing
+236,7,Licensing experiences in the Netherlands
+237,7,"International library consortia : positive starts , promising futures"
+238,7,The Open Archives Initiative : realizing simple and effective digital library interoperability
+239,7,Content standards for electronic books : the OEBF publication structure and the role of public interest participation
+240,7,Project Euclid and the role of research libraries in scholarly publishing
+241,7,Perspectives on scholarly online books : the Columbia University Online Books Evaluation Project
+242,7,The California Digital Library and the eScholarship program
+243,7,BioOne : a new model for scholarly publishing
+244,7,Symbiosis or alienation : advancing the university press/research library relationship through electronic scholarly communication
+245,5,Support vector machines model for classification of thermal error in machine tools
+246,0,Adaptive and efficient mutual exclusion
+247,1,The congenial talking philosophers problem in computer networks
+248,0,Universal dynamic synchronous self-stabilization
+249,0,Randomized two-process wait-free test-and-set
+250,3,Aim for the enterprise : Microsoft Project 2002
+251,3,Central hub for design assets : Adobe GoLive 6.0
+252,3,Reaching for five nines : ActiveWatch and SiteSeer
+253,3,Accessible streaming content
+254,3,What you get is what you see -LSB- Web performance monitoring -RSB-
+255,2,The culture of usability
+256,3,Debugging Web applications
+257,2,Unsafe at any speed ?
+258,7,Building digital collections at the OAC : current strategies with a view to future uses
+259,7,Nuts and bolts : implementing descriptive standards to enable virtual collections
+260,7,Prospecting virtual collections
+261,7,Union outreach - a pilgrim 's progress
+262,6,The impact of EAD adoption on archival programs : a pilot survey of early implementers
+263,3,K-12 instruction and digital access to archival materials
+264,7,"The archival imagination of David Bearman , revisited"
+265,0,Pattern recognition strategies for molecular surfaces .
+266,0,Pattern recognition strategies for molecular surfaces .
+267,0,An efficient parallel algorithm for the calculation of canonical MP2 energies
+268,0,A method for correlations analysis of coordinates : applications for molecular conformations
+269,1,Genetic algorithm guided selection : variable selection and subset selection
+270,0,Using molecular equivalence numbers to visually explore structural features that distinguish chemical libraries
+271,1,On the use of neural network ensembles in QSAR and QSPR
+272,0,Median partitioning : a novel method for the selection of representative subsets from large compound pools
+273,0,Chemical information based scaling of molecular descriptors : a universal chemical scale for library design and analysis
+274,1,MTD-PLS : a PLS-based variant of the MTD method .
+275,1,Prediction of ultraviolet spectral absorbance using quantitative structure-property relationships
+276,1,Assessment of the macrocyclic effect for the complexation of crown-ethers with alkali cations using the substructural molecular fragments method
+277,1,Improving the predicting power of partial order based QSARs through linear extensions
+278,0,Novel ZE-isomerism descriptors derived from molecular topology and their application to QSAR analysis
+279,7,Computer mediated communication and university international students
+280,3,Entrepreneurs in Action : a Web-case model
+281,3,Factors contributing to preservice teachers ' discomfort in a Web-based course structured as an inquiry
+282,3,Recommendations for implementing Internet inquiry projects
+283,2,Alien Rescue : a problem-based hypermedia learning environment for middle school science
+284,2,Project-based learning : teachers learning and using high-tech to preserve Cajun culture
+285,2,"Presentation media , information complexity , and learning outcomes"
+286,0,Real-time tissue characterization on the basis of in vivo Raman spectra
+287,6,"Loudspeaker voice-coil inductance losses : circuit models , parameter estimation , and effect on frequency response"
+288,6,Complexity transitions in global algorithms for sparse linear systems over finite fields
+289,1,Noise effect on memory recall in dynamical neural network model of hippocampus
+290,5,MEMS applications in computer disk drive dual-stage servo systems
+291,5,Nuclear magnetic resonance molecular photography
+292,5,Novel active noise-reducing headset using earshell vibration control
+293,5,Theoretical and experimental investigations on coherence of traffic noise transmission through an open window into a rectangular room in high-rise buildings
+294,7,High-density remote storage : the Ohio State University Libraries depository
+295,7,Hours of operation and service in academic libraries : toward a national standard
+296,3,Using the Web to answer legal reference questions
+297,7,The service side of systems librarianship
+298,7,Defining electronic librarianship : a content analysis of job advertisements
+299,7,Customer in-reach and library strategic systems : the case of ILLiad
+300,2,The plot thins : thin-client computer systems and academic libraries
+301,7,Academic libraries and community : making the connection
+302,3,Using Internet search engines to estimate word frequency
+303,1,Visual-word identification thresholds for the 260 fragmented words of the Snodgrass and Vanderwart pictures in Spanish
+304,3,"A Web-accessible database of characteristics of the 1,945 basic Japanese kanji"
+305,0,Full-screen ultrafast video modes over-clocked by simple VESA routines and registers reprogramming under MS-DOS
+306,0,Measuring keyboard response delays by comparing keyboard and joystick inputs
+307,6,Computer program to generate operant schedules
+308,2,On-line Homework/Quiz/Exam applet : freely available Java software for evaluating performance on line
+309,3,WEXTOR : a Web-based tool for generating and visualizing experimental designs and procedures
+310,3,ePsych : interactive demonstrations and experiments in psychology
+311,2,Information architecture without internal theory : an inductive design process
+312,2,Information architecture for the Web : The IA matrix approach to designing children 's portals
+313,2,Information architecture : notes toward a new curriculum
+314,2,Information architecture in JASIST : just where did we come from ?
+315,3,The impact of the Internet on public library use : an analysis of the current consumer market for library and Internet services
+316,1,Duality revisited : construction of fractional frequency distributions based on two dual Lotka laws
+317,3,Relevance of Web documents : ghosts consensus method
+318,1,Note on `` Deterministic inventory lot-size models under inflation with shortages and deterioration for fluctuating demand '' by Yang et al
+319,1,Designing a screening experiment for highly reliable products
+320,0,Warranty reserves for nonstationary sales processes
+321,7,A multimodal data collection tool using REALbasic and Mac OS X
+322,0,Toward an Experimental Timing Standards Lab : benchmarking precision in the real world
+323,0,A server-side program for delivering experiments with animations
+324,3,Using NetCloak to develop server-side Web-based experiments without writing CGI programs
+325,1,Open courseware and shared knowledge in higher education
+326,3,Web-based experiments controlled by JavaScript : an example from probability learning
+327,0,Using latent semantic analysis to assess reader strategies
+328,3,Personality research on the Internet : a comparison of Web-based and traditional instruments in take-home and in-class settings
+329,3,Implications of document-level literacy skills for Web site design
+330,2,Improving computer security for authentication of users : influence of proactive password restrictions
+331,4,Multidimensional data visualization
+332,1,Fitting mixed-effects models for repeated ordinal outcomes with the NLMIXED procedure
+333,3,Teaching psychology as a laboratory science in the age of the Internet
+334,3,Capturing niche markets with copper
+335,2,"Fresh voices , big ideas -LSB- IBM internship program -RSB-"
+338,2,Down up -LSB- IT projects -RSB-
+339,0,An automated parallel image registration technique based on the correlation of wavelet features
+340,5,Temelin casts its shadow -LSB- nuclear power plant -RSB-
+341,6,How should team captains order golfers on the final day of the Ryder Cup matches ?
+342,1,Mount Sinai Hospital uses integer programming to allocate operating room time
+343,2,Using the Small Business Innovation Research Program to turn your ideas into products
+344,2,Student consulting projects benefit faculty and industry
+345,2,In search of strategic operations research/management science
+346,0,"Baseball , optimization , and the World Wide Web"
+347,2,From revenue management concepts to software systems
+348,0,Lower bounds on the information rate of secret sharing schemes with homogeneous access structure
+349,5,A self-adjusting quality of service control scheme
+350,1,There is no optimal routing policy for the torus
+351,0,Optimal online algorithm for scheduling on two identical machines with machine availability constraints
+352,0,An efficient retrieval selection algorithm for video servers with random duplicated assignment storage technique
+353,0,Edit distance of run-length encoded strings
+354,0,Fault-tolerant Hamiltonian laceability of hypercubes
+355,5,An identity-based society oriented signature scheme with anonymous signers
+356,1,Operational phase-space probability distribution in quantum communication theory
+357,6,Embedding of level-continuous fuzzy sets on Banach spaces
+358,1,Correlation of intuitionistic fuzzy sets by centroid method
+359,6,Neighborhood operator systems and approximations
+360,6,Numerical representation of binary relations with a multiplicative error function
+361,0,A pretopological approach for structural analysis
+362,0,On batch-constructing B/sup + / - trees : algorithm and its performance evaluation
+363,5,Synthetic simultaneity - natural and artificial
+364,6,MACLP : multi agent constraint logic programming
+365,1,Self-organizing feature maps predicting sea levels
+366,2,Selecting rail grade crossing investments with a decision support system
+367,0,A study on meaning processing of dialogue with an example of development of travel consultation system
+368,1,From a biological to a computational model for the autonomous behavior of an animat
+369,3,Nissan v. Nissan -LSB- trademark dispute -RSB-
+370,3,"Virtual borders , real laws -LSB- Internet activity and treaties -RSB-"
+371,3,A better ballot box ?
+373,2,Putting pen to screen on Tablet PCs
+374,5,Horizontal waypoint guidance design using optimal control
+375,5,Separation and tracking of multiple broadband sources with one electromagnetic vector sensor
+376,1,Recursive state estimation for multiple switching models with unknown transition probabilities
+377,6,MATLAB code for plotting ambiguity functions
+378,5,Incremental motion control of linear synchronous motor
+379,5,Feedforward maximum power point tracking of PV systems using fuzzy controller
+380,5,Quantitative speed control for SRM drive using fuzzy adapted inverse model
+381,5,Robust fuzzy controlled photovoltaic power inverter with Taguchi method
+382,5,Robust wavelet neuro control for linear brushless motors
+383,1,Outlier resistant adaptive matched filtering
+384,5,Brightness-independent start-up routine for star trackers
+385,1,Multiple model adaptive estimation with filter spawning
+386,0,Matched-filter template generation via spatial filtering : application to fetal biomagnetic recordings
+387,0,Design and implementation of a brain-computer interface with high transfer rates
+388,0,Noninvasive myocardial activation time imaging : a novel inverse algorithm applied to clinical ECG mapping data
+389,1,Bayesian nonstationary autoregressive models for biomedical signal analysis
+390,1,Automated breath detection on long-duration signals using feedforward backpropagation artificial neural networks
+391,1,Model selection in electromagnetic source analysis with an application to VEFs
+392,0,Time-varying properties of renal autoregulatory mechanisms
+393,6,The use of the SPSA method in ECG analysis
+394,1,Model intestinal microflora in computer simulation : a simulation and modeling package for host-microflora interactions
+395,6,Conformal-mapping design tools for coaxial couplers with complex cross section
+396,1,Convolution-based global simulation technique for millimeter-wave photodetector and photomixer circuits
+397,6,Accurate modeling of lossy nonuniform transmission lines by using differential quadrature methods
+398,6,An unconditionally stable extended -LRB- USE -RRB- finite-element time-domain solution of active nonlinear microwave circuits using perfectly matched layers
+399,5,Low-voltage DRAM sensing scheme with offset-cancellation sense amplifier
+400,5,A 120-mW 3-D rendering engine with 6-Mb embedded DRAM and 3.2-GB / s runtime reconfigurable bus for PDA chip
+401,5,A digital-to-analog converter based on differential-quad switching
+402,5,Fast frequency acquisition phase-frequency detectors for Gsamples/s phase-locked loops
+403,5,High-voltage transistor scaling circuit techniques for high-density negative-gate channel-erasing NOR flash memories
+404,5,A 0.8-V 128-kb four-way set-associative two-level CMOS cache memory using two-stage wordline/bitline-oriented tag-compare -LRB- WLOTC/BLOTC -RRB- scheme
+405,6,Learning spatial relations using an inductive logic programming system
+406,0,Windows XP fast user switching
+407,0,Generating code at run time with Reflection.Emit
+408,0,.
+410,6,Lossy SPICE models produce realistic averaged simulations
+411,5,CAD/CAE software aids converter design -LSB- DC/DC power conversion -RSB-
+412,5,Using virtual reality to teach disability awareness
+413,3,Effects of white space in learning via the Web
+414,2,The efficacy of electronic telecommunications in fostering interpersonal relationships
+1930,6,A new method of systemological analysis coordinated with the procedure of object-oriented design .
+1931,1,Mathematical fundamentals of constructing fuzzy Bayesian inference techniques
+1932,6,"Solution of the safe problem on -LRB- 0,1 -RRB- - matrices"
+1933,6,Accelerated simulation of the steady-state availability of non-Markovian systems
+1934,5,Computational finite-element schemes for optimal control of an elliptic system with conjugation conditions
+1935,1,Identification of states of complex systems with estimation of admissible measurement errors on the basis of fuzzy information
+1936,6,A new approach to the decomposition of Boolean functions by the method of q-partitions .
+1937,6,Nonlinear extrapolation algorithm for realization of a scalar random process
+1938,6,A method for solution of systems of linear algebraic equations with m-dimensional lambda - matrices
+1939,6,Compatibility of systems of linear constraints over the set of natural numbers
+1940,0,New lower bounds of the size of error-correcting codes for the Z-channel
+1941,6,Descriptological foundations of programming
+1942,1,Precoded OFDM with adaptive vector channel allocation for scalable video transmission over frequency-selective fading channels
+1943,3,I-WAP : an intelligent WAP site management system
+1944,3,A framework of electronic tendering for government procurement : a lesson learned in Taiwan
+1945,4,The development of a mobile manipulator imaging system for bridge crack inspection
+1946,3,Integrating building management system and facilities management on the Internet
+1947,2,Modelling user acceptance of building management systems
+1948,7,Estimating populations for collective dose calculations
+1949,2,A new graphical user interface for fast construction of computation phantoms and MCNP calculations : application to calibration of in vivo measurement systems
+1950,6,General solution of a density functionally gradient piezoelectric cantilever and its applications
+1951,1,Recording quantum properties of light in a long-lived atomic spin state : towards quantum memory
+1952,6,Comprehensive encoding and decoupling solution to problems of decoherence and design in solid-state quantum computing
+1953,1,Social percolation and the influence of mass media
+1954,0,Estimating long-range dependence : finite sample properties and confidence intervals
+1955,1,Simulation of evacuation processes using a bionics-inspired cellular automaton model for pedestrian dynamics
+1956,0,Dynamical transition to periodic motions of a recurrent bus induced by nonstops
+1957,1,The two populations ' cellular automata model with predation based on the Penna model
+1958,0,Option pricing from path integral for non-Gaussian fluctuations .
+1959,6,Quantum market games
+1960,0,"Streaming , disruptive interference and power-law behavior in the exit dynamics of confined pedestrians"
+1961,0,The influence of tollbooths on highway traffic
+1962,0,The Bagsik Oscillator without complex numbers
+1963,0,The variance of firm growth rates : the ` scaling ' puzzle
+1964,0,Antipersistent Markov behavior in foreign exchange markets
+1965,0,Stock market dynamics
+1966,0,Application of nonlinear time series analysis techniques to high-frequency currency exchange data
+1967,0,Modeling daily realized futures volatility with singular spectrum analysis
+1968,5,Phase control of higher-order squeezing of a quantum field
+1969,6,Modeling self-consistent multi-class dynamic traffic flow
+1970,3,eMarketing : restaurant Web sites that click
+1971,3,Exploring developments in Web based relationship marketing within the hotel industry
+1972,3,Online auctions : dynamic pricing and the lodging industry
+1973,4,Affine invariants of convex polygons
+1974,0,Real-time implementation of a new low-memory SPIHT image coding algorithm using DSP chip
+1975,4,Efficient computation of local geometric moments
+1976,4,Adaptive image denoising using scale and space consistency
+1977,4,Tracking nonparameterized object contours in video
+1978,4,Multilayered image representation : application to image compression
+1979,4,Combining spatial and scale-space techniques for edge detection to provide a spatially adaptive wavelet-based noise filtering algorithm
+1980,4,Lossy to lossless object-based coding of 3-D MRI data
+1981,5,Optimal linear control in stabilizer design
+1982,2,Verifying resonant grounding in distribution systems
+1983,5,Power electronics spark new simulation challenges
+1984,1,Deriving model parameters from field test measurements -LSB- generator control simulation -RSB-
+1985,2,Prospective on computer applications in power
+1986,2,Control centers are here to stay
+1987,3,Virus hunting
+1988,2,Integration is key - an introduction to enterprise application integration -LRB- EAI -RRB- technology
+1989,2,Managing system risk
+1990,2,Electrical facility construction work for information network structuring by the use of sewage conduits
+1991,4,A framework for evaluating the data-hiding capacity of image sources
+1992,4,Geometrically invariant watermarking using feature points
+1993,4,Color plane interpolation using alternating projections
+1994,4,A comparison of computational color constancy Algorithms .
+1995,4,A comparison of computational color constancy algorithms .
+1996,4,Quality image metrics for synthetic images based on perceptual color differences
+1997,5,Exact controllability of shells in minimal time
+1998,5,A friction compensator for pneumatic control valves
+1999,5,Performance comparison between PID and dead-time compensating controllers
+2000,5,Generalized predictive control for non-uniformly sampled systems
+2001,1,A simple graphic approach for observer decomposition
+2002,1,A new subspace identification approach based on principal component analysis
+2003,1,Nonlinear modeling and adaptive fuzzy control of MCFC stack
+2004,4,New paradigms for interactive 3D volume segmentation
+2005,4,State-of-the-art in orthopaedic surgical navigation with a focus on medical image modalities
+2006,4,Lung metastasis detection and visualization on CT images : a knowledge-based method
+2007,4,The creation of a high-fidelity finite element model of the kidney for use in trauma research
+2008,4,Building 3D anatomical scenes on the Web
+2009,1,A survey of interactive mesh-cutting techniques and a new method for implementing generalized interactive mesh cutting using virtual tools
+2010,4,Scale-invariant segmentation of dynamic contrast-enhanced perfusion MR images with inherent scale selection
+2011,4,Innovative phase unwrapping algorithm : hybrid approach
+2012,5,Strain contouring using Gabor filters : principle and algorithm
+2013,0,Novel denoising algorithm for obtaining a superresolved position estimation
+2014,4,Adaptive filtering for noise reduction in hue saturation intensity color space
+2015,4,Optical recognition of three-dimensional objects with scale invariance using a classical convergent correlator
+2016,4,Fully automatic algorithm for region of interest location in camera calibration
+2017,5,Autofocus system for microscope
+2018,4,Design and implementation of a 3-D mapping system for highly irregular shaped objects with application to semiconductor manufacturing
+2019,4,Effective moving cast shadow detection for monocular color traffic image sequences
+2020,4,Restoration of broadband imagery steered with a liquid-crystal optical phased array
+2021,5,One-step digit-set-restricted modified signed-digit adder using an incoherent correlator based on a shared content-addressable memory
+2022,4,Two-step integral imaging for orthoscopic three-dimensional imaging with improved viewing resolution
+2023,4,Diffraction limit for a circular mask with a periodic rectangular apertures array
+2024,4,Binocular model for figure-ground segmentation in translucent and occluding images
+2025,4,Multispectral color image capture using a liquid crystal tunable filter
+2026,4,Iterative regularized least-mean mixed-norm image restoration
+2027,4,Motion estimation using modified dynamic programming
+2028,4,Centroid detection based on optical correlation
+2029,4,Block truncation image bit plane coding
+2030,4,Elimination of zero-order diffraction in digital holography
+2031,4,Efficient two-level image thresholding method based on Bayesian formulation and the maximum entropy principle
+2032,5,Adaptive digital watermarking using fuzzy logic techniques
+2033,4,Optical encoding of color three-dimensional correlation
+2035,6,Search for efficient solutions of multi-criterion problems by target-level method
+2036,2,Computer processing of data on mental impairments during the acute period of concussion
+2037,6,Regularization of linear regression problems
+2038,1,Choice from a three-element set : some lessons of the 2000 presidential campaign in the United States
+2039,1,An inverse problem for a model of a hierarchical structure
+2040,6,Inverse problems for a mathematical model of ion exchange in a compressible ion exchanger
+2041,6,Application of multiprocessor systems for computation of jets
+2042,0,Hybrid simulation of space plasmas : models with massless fluid representation of electrons .
+2043,6,Limits for computational electromagnetics codes imposed by computer architecture
+2044,4,Three-dimensional geometrical optics code for indoor propagation
+2045,6,Building a better game through dynamic programming : a Flip analysis
+2046,2,Designing and delivering a university course - a process -LRB- or operations -RRB- management perspective
+2047,2,A generalized PERT/CPM implementation in a spreadsheet
+2048,1,An object-oriented version of SIMLIB -LRB- a simple simulation package -RRB-
+2049,1,The maximum possible EVPI
+2050,6,Who Wants To Be A Millionaire -LRB- R -RRB- : The classroom edition
+2051,1,Who wants to see a $ million error ?
+2052,1,Blitzograms - interactive histograms
+2053,1,Teaching management science with spreadsheets : From decision models to decision support
+2054,1,Teaching modeling in management science
+2055,2,Causes of the decline of the business school management science course
+2056,7,Gifts to a science academic librarian
+2057,0,Four factors influencing the fair market value of out-of print books .
+2058,0,Four factors influencing the fair market value of out-of-print books .1
+2059,7,"Acquiring materials in the history of science , technology , and medicine"
+2060,7,"Decisions , decisions , decisions : a tale of special collections in the small academic library"
+2061,7,Acquisitions in the James Ford Bell Library
+2062,7,"Underground poetry , collecting poetry , and the librarian"
+2063,0,On emotion and bounded rationality : reply to Hanoch
+2064,1,The effects of emotions on bounded rationality : a comment on Kaufman
+2065,1,Emotion and self-control
+2066,2,Product and process innovations in the life cycle of an industry
+2067,1,A comparison of the discounted utility model and hyperbolic discounting models in the case of social and private intertemporal preferences for health
+2068,0,Modeling the labor market as an evolving institution : model ARTEMIS
+2069,5,The ultimate control group
+2070,0,Modularity in technology and organization
+2081,6,Three-dimensional optimum design of the cooling lines of injection moulds based on boundary element design sensitivity analysis
+2082,0,Managing safety and strategic stocks to improve materials requirements planning performance
+2083,1,Innovative manufacture of impulse turbine blades for wave energy power conversion
+2084,0,Evaluation of combined dispatching and routeing strategies for a flexible manufacturing system
+2085,1,An intelligent fuzzy decision system for a flexible manufacturing system with multi-decision points
+2086,0,A design to cost system for innovative product development
+2087,5,Re-examining the machining frictional boundary conditions using fractals
+2088,0,Layer-based machining : recent development and support structure design
+2089,5,World 's biggest battery helps to stabilise Alaska
+2090,5,All-optical logic NOR gate using two-cascaded semiconductor optical amplifiers
+2091,4,Prospects for quantitative computed tomography imaging in the presence of foreign metal bodies using statistical image reconstruction
+2092,0,Matching PET and CT scans of the head and neck area : Development of method and validation
+2093,0,Fresh tracks -LSB- food processing -RSB-
+2094,1,Statistical inference with partial prior information based on a Gauss-type inequality
+2095,0,Global stability of the attracting set of an enzyme-catalysed reaction system
+2096,1,A spatial rainfall simulator for crop production modeling in Southern Africa
+2097,0,An algorithm to generate all spanning trees with flow
+2098,6,"Nonlinear systems arising from nonisothermal , non-Newtonian Hele-Shaw flows in the presence of body forces and sources"
+2099,6,Analyzing the potential of a firm : an operations research approach
+2100,6,Optimization of planning an advertising campaign of goods and services
+2101,5,All-optical XOR gate using semiconductor optical amplifiers without additional input beam
+2102,3,Trust in online advice
+2103,3,The social impact of Internet gambling
+2104,2,Computer-mediated communication and remote management : integration or isolation ?
+2105,3,Collective action in the age of the Internet : mass communication and online mobilization
+2106,3,Explanations for the perpetration of and reactions to deception in a virtual community
+2107,2,The effects of asynchronous computer-mediated group interaction on group processes
+2108,3,Online longitudinal survey research : viability and participation
+2109,3,Internet-based psychological experimenting : five dos and five do n'ts
+2110,3,Psychology and the Internet
+2111,4,Extended depth-of-focus imaging of chlorophyll fluorescence from intact leaves
+2112,0,Allan variance and fractal Brownian motion
+2113,6,Ideal sliding mode in the problems of convex optimization
+2114,0,Automation of the recovery of efficiency of complex structure systems
+2115,5,Control of combustion processes in an internal combustion engine by low-temperature plasma
+2116,5,Optimization of the characteristics of computational processes in scalable resources
+2117,0,The p-p rearrangement and failure-tolerance of double p-ary multirings and generalized hypercubes
+2118,6,Solutions for cooperative games
+2119,0,Location of transport nets on a heterogeneous territory
+2120,6,Control in active systems based on criteria and motivation
+2121,1,Flexibility analysis of complex technical systems under uncertainty
+2122,5,A fuzzy logic adaptation circuit for control systems of deformable space vehicles : its design
+2123,6,`` Hidden convexity '' of finite-dimensional stationary linear discrete-time systems under conical constraints
+2124,6,The set of stable polynomials of linear discrete systems : its geometry
+2125,6,Stochastic systems with a random jump in phase trajectory : stability of their motions
+2126,5,A nonlinear time-optimal control problem
+2127,6,System embedding .
+2128,5,An optimal control algorithm based on reachability set approximation and linearization
+2129,6,A universal decomposition of the integration range for exponential functions
+2130,6,Synchronizing experiments with linear interval systems
+2131,6,Diagnosis of the technical state of heat systems
+2132,5,"Fault-tolerant computer-aided control systems with multiversion-threshold adaptation : adaptation methods , reliability estimation , and choice of an architecture"
+2133,0,Nonlockability in multirings and hypercubes at serial transmission of data blocks
+2134,1,Linear models of circuits based on the multivalued components
+2135,1,A new approach to the problem of structural identification .
+2136,6,A method of determining a sequence of the best solutions to the problems of optimization on finite sets and the problem of network reconstruction
+2137,5,Stabilization of a linear object by frequency-modulated pulsed signals
+2138,5,Reachability sets of a class of multistep control processes : their design
+2139,1,Generalized confidence sets for a statistically indeterminate random vector
+2140,6,Strong active solution in non-cooperative games
+2141,6,System embedding .
+2142,6,Spectral characteristics of the linear systems over a bounded time interval
+2143,2,Quantum computing with solids
+2144,2,The perils of privacy
+2145,2,Enterprise in focus at NetSec 2002
+2146,2,Trusted ... or ... trustworthy : the search for a new paradigm for computer and network security
+2147,4,Much ado about nothing : Win32.Perrun
+2148,2,Information security policy - what do international information security standards say ?
+2149,2,Security crisis management - the basics
+2150,2,Data storage : re-format .
+2151,2,Industrial/sup IT / for performance buildings
+2152,2,Virtual engineering office : a state-of-the-art platform for engineering collaboration
+2153,0,Post-haste .
+2154,5,Optimize/sup IT / robot condition monitoring tool
+2156,0,Pane relief .
+2157,6,Shaping the future .
+2158,0,Press shop .
+2159,0,Real-time enterprise solutions for discrete manufacturing and consumer goods
+2160,0,Challenges and trends in discrete manufacturing
+2161,6,On the Beth properties of some intuitionistic modal logics
+2162,4,More constructions for Boolean algebras
+2163,2,IT as a key enabler to law firm competitiveness
+2164,7,Electronic signatures - much ado ?
+2165,0,"Naomi Campbell : drugs , distress and the Data Protection Act"
+2166,3,Do n't always believe what you Reed -LSB- optimisation techniques for Web sites and trade mark infringement -RSB-
+2167,2,Finally !
+2168,3,Cyberobscenity and the ambit of English criminal law
+2169,7,E-government
+2170,2,Evolution of litigation support systems
+2171,7,Evicting orang utans from the office -LSB- electronic storage of legal files -RSB-
+2172,7,Electronic data exchange for real estate
+2173,2,E-mail and the legal profession
+2174,2,Spam solution ?
+2175,3,7 key tests in choosing your Web site firm
+2176,3,"Why your Web strategy is , err , wrong"
+2177,2,A humanist 's legacy in medical informatics : visions and accomplishments of Professor Jean-Raoul Scherrer
+2178,2,"Medicine in the 21 st century : global problems , global solutions"
+2179,2,"Guidelines , the Internet , and personal health : insights from the Canadian HEALNet experience"
+2180,0,Standard protocol for exchange of health-checkup data based on SGML : the Health-checkup Data Markup Language -LRB- HDML -RRB-
+2181,0,Development of a health guidance support system for lifestyle improvement
+2182,2,Organization design : The continuing influence of information technology
+2183,2,Knowledge-based structures and organisational commitment
+2184,2,The evolution of information systems : Their impact on organizations and structures
+2185,1,In search of a general enterprise model
+2186,0,"Strategies for high throughput , templated zeolite synthesis"
+2187,5,Variable structure intelligent control for PM synchronous servo motor drive
+2188,5,A nonlinear modulation strategy for hybrid AC/DC power systems
+2189,2,Mobile computing `` Killer app '' competition
+2190,2,Standards for service discovery and delivery
+2191,2,The role of speech input in wearable computing
+2192,3,The ubiquitous provisioning of internet services to portable devices
+2193,2,Integrating virtual and physical context to support knowledge workers
+2194,2,Data management in location-dependent information services
+2195,2,Modeling privacy control in context-aware systems
+2196,2,ConChat : a context-aware chat program
+2197,1,A context-aware decision engine for content adaptation
+2198,2,Reconfigurable context-sensitive middleware for pervasive computing
+2199,0,Activity and location recognition using wearable sensors
+2200,2,Labscape : a smart environment for the cell biology laboratory

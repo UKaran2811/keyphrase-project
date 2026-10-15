@@ -1,0 +1,4 @@
+data/Inspec/
+data/_ake_tmp/
+__pycache__/
+*.pyc

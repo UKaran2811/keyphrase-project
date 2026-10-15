@@ -1,0 +1,87 @@
+{
+  "false_negative_breakdown": {
+    "found in top-10": {
+      "count": 2096,
+      "pct": 42.66
+    },
+    "absent from the abstract text": {
+      "count": 1098,
+      "pct": 22.35
+    },
+    "candidate generated but ranked below 10": {
+      "count": 1180,
+      "pct": 24.02
+    },
+    "in text but not generated as candidate (POS/length/boundary)": {
+      "count": 539,
+      "pct": 10.97
+    }
+  },
+  "false_positive_breakdown": {
+    "other (no lexical relation to gold)": {
+      "count": 934,
+      "pct": 32.12
+    },
+    "generic frequent single word": {
+      "count": 54,
+      "pct": 1.86
+    },
+    "sub-phrase of a gold keyphrase": {
+      "count": 769,
+      "pct": 26.44
+    },
+    "super-phrase of a gold keyphrase": {
+      "count": 361,
+      "pct": 12.41
+    },
+    "partial word overlap with gold": {
+      "count": 790,
+      "pct": 27.17
+    }
+  },
+  "n_gold": 4913,
+  "n_predictions": 4997,
+  "n_false_positives": 2908,
+  "recall_by_gold_length": {
+    "1": {
+      "gold": 662,
+      "found": 144,
+      "recall": 0.2175
+    },
+    "2": {
+      "gold": 2587,
+      "found": 1292,
+      "recall": 0.4994
+    },
+    "3": {
+      "gold": 1221,
+      "found": 574,
+      "recall": 0.4701
+    },
+    "4": {
+      "gold": 443,
+      "found": 86,
+      "recall": 0.1941
+    }
+  },
+  "complementarity_vs_textrank": {
+    "both": 1419,
+    "only_proposed": 677,
+    "only_textrank": 336,
+    "neither": 2481,
+    "oracle_union_recall@10": 0.495
+  }
+}
+     factor     bin  n_docs     F1      P      R
+   gold_bin     1-5    97.0 0.3585 0.2564 0.6241
+   gold_bin     6-9   177.0 0.4315 0.3751 0.5141
+   gold_bin   10-14   137.0 0.4477 0.4839 0.4195
+   gold_bin     15+    89.0 0.4185 0.5854 0.3287
+    len_bin   <=100   162.0 0.4117 0.3492 0.5529
+    len_bin 101-150   149.0 0.4383 0.4336 0.4902
+    len_bin 151-200   121.0 0.4271 0.4661 0.4331
+    len_bin    >200    68.0 0.3834 0.4721 0.3415
+present_bin   <=50%    56.0 0.2255 0.2232 0.2636
+present_bin  51-75%   150.0 0.3631 0.3627 0.3990
+present_bin  76-99%   176.0 0.4665 0.5121 0.4633
+present_bin    100%   118.0 0.5131 0.4462 0.6958
